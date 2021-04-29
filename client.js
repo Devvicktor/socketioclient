@@ -1,4 +1,4 @@
-const socket = io('https://socketioworking.herokuapp.com:443/ ');
+const socket = io('https://socketioworking.herokuapp.com');
 
 const form = document.getElementById('form');
 const input = document.getElementById('input');

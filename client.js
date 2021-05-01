@@ -1,4 +1,4 @@
-const socket = io ('http://localhost:3000');
+const socket = io ('https://socketioworking.herokuapp.com/');
 const userList = document.getElementById('users');
 const roomName = document.getElementById('room-name');
 const form = document.getElementById ('form');
